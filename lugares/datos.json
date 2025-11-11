@@ -1,0 +1,84 @@
+{
+  "lugares": [
+    {
+      "id": "1",
+      "nombre": "La Alhambra",
+      "pais": "España",
+      "ciudad": "Granada",
+      "foto": "https://tripgranada.com/wp-content/uploads/2023/10/que-es-la-alhambra-de-granada.jpg",
+      "descripcion": "La Alhambra es un conjunto monumental ubicado en una colina que domina la ciudad de Granada, en el sur de España. Fue palacio, fortaleza y ciudadela de los sultanes nazaríes, combinando arquitectura militar y refinamiento estético. Destaca por sus patios, fuentes y decoraciones geométricas que reflejan la sofisticación del arte islámico. Su nombre significa 'la Roja', en referencia al tono rojizo de sus muros al atardecer. Es un símbolo de la herencia andalusí y un icono cultural de España."
+    },
+    {
+      "id": "2",
+      "nombre": "Taj Mahal",
+      "pais": "India",
+      "ciudad": "Agra",
+      "foto": "https://elgranviajecito.com/wp-content/uploads/2020/10/taj-mahal.jpg",
+      "descripcion": "El Taj Mahal es un majestuoso mausoleo de mármol blanco construido en el siglo XVII por el emperador Shah Jahan en memoria de su esposa Mumtaz Mahal. Ubicado en la ciudad de Agra, es una de las obras más icónicas de la arquitectura mogol. Su simetría perfecta, jardines y detalles ornamentales lo convierten en una joya del patrimonio mundial. Es considerado símbolo del amor eterno y es uno de los monumentos más visitados del planeta."
+    },
+    {
+      "id": "3",
+      "nombre": "Gran Muralla China",
+      "pais": "China",
+      "ciudad": "Beijing",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/1/10/20090529_Great_Wall_8185.jpg",
+      "descripcion": "La Gran Muralla China es una colosal estructura defensiva construida a lo largo de siglos para proteger el imperio chino de invasiones. Se extiende por más de 21.000 kilómetros, atravesando montañas, desiertos y valles. Su historia, ingeniería y escala impresionan a millones de visitantes cada año. Fue declarada Patrimonio de la Humanidad por la UNESCO en 1987 y es un símbolo nacional de China."
+    },
+    {
+      "id": "4",
+      "nombre": "Machu Picchu",
+      "pais": "Perú",
+      "ciudad": "Cusco",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+      "descripcion": "Machu Picchu es una antigua ciudad inca enclavada en los Andes peruanos, construida en el siglo XV. Fue redescubierta por el explorador Hiram Bingham en 1911 y es considerada una de las maravillas del mundo moderno. Sus terrazas, templos y canales demuestran el avanzado conocimiento de ingeniería inca. Es un lugar sagrado que ofrece una vista espectacular entre montañas y niebla."
+    },
+    {
+      "id": "5",
+      "nombre": "Monte Fuji",
+      "pais": "Japón",
+      "ciudad": "Fujinomiya",
+      "foto": "https://upload.wikimedia.org/wikipedia/commons/6/66/Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpg",
+      "descripcion": "El Monte Fuji es la montaña más alta de Japón y un volcán sagrado que ha inspirado arte, poesía y espiritualidad durante siglos. Con su silueta simétrica y su cumbre nevada, es un ícono cultural del país. Se encuentra cerca de Tokio y es un popular destino para senderistas y fotógrafos. En días despejados, su belleza se refleja en los lagos circundantes, creando imágenes inolvidables."
+    },
+    {
+      "id": "6",
+      "nombre": "Santorini",
+      "pais": "Grecia",
+      "ciudad": "Santorini",
+      "foto": "https://cdn2.paraty.es/demo14/images/ef7d8f6c8bff807",
+      "descripcion": "Santorini es una isla volcánica en el mar Egeo famosa por sus casas blancas con cúpulas azules y vistas espectaculares al mar. Es un destino popular para viajes románticos y turismo de lujo. Sus atardeceres en Oia son considerados algunos de los más bellos del mundo. La isla también tiene ruinas arqueológicas y playas únicas con arena negra y roja."
+    },
+    {
+      "id": "7",
+      "nombre": "Parque Nacional de Yellowstone",
+      "pais": "Estados Unidos",
+      "ciudad": "Wyoming",
+      "foto": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/248000/248088-Yellowstone-National-Park.jpg",
+      "descripcion": "Yellowstone es el primer parque nacional del mundo, conocido por sus géiseres, fuentes termales y una gran variedad de fauna salvaje. Ubicado principalmente en Wyoming, ofrece paisajes impresionantes y ecosistemas diversos. El géiser Old Faithful es uno de sus principales atractivos. Es un lugar de conservación natural y aventura para millones de visitantes."
+    },
+    {
+      "id": "8",
+      "nombre": "La Gran Barrera de Coral",
+      "pais": "Australia",
+      "ciudad": "Queensland",
+      "foto": "https://www.kiaoratravellers.com/wp-content/uploads/2021/04/PortadaBarreraCoral-1.jpg",
+      "descripcion": "La Gran Barrera de Coral es el sistema de arrecifes de coral más grande del mundo, ubicado frente a la costa de Queensland. Es un ecosistema marino diverso y frágil, hogar de miles de especies. Es un destino popular para buceo y snorkel. Además, es Patrimonio de la Humanidad y un símbolo de la riqueza natural australiana."
+    },
+    {
+      "id": "d7bd261a-a752-4534-b932-43fc8fe98399",
+      "nombre": "El retiro",
+      "pais": "España",
+      "ciudad": "Madrid",
+      "foto": "https://www.civitatis.com/f/espana/madrid/guia/el-retiro.jpg",
+      "descripcion": "El Parque del Retiro, ubicado en el centro de Madrid, es uno de los espacios verdes más emblemáticos de la ciudad. Fue creado en el siglo XVII como jardín para la realeza. Hoy es un lugar público ideal para pasear, hacer deporte o disfrutar del arte al aire libre. Entre sus puntos destacados están el Estanque Grande, el Palacio de Cristal y el de Velázquez. En 2021 fue declarado Patrimonio Mundial por la UNESCO junto al Paseo del Prado."
+    },
+    {
+      "id": "e92a9607-a6d8-44b2-8fb2-cc6151159db8",
+      "nombre": "La Sagrada Familia",
+      "pais": "Es",
+      "ciudad": "Barcelona",
+      "foto": "https://www.mayerlingbisbeurquinaona.com/wp-content/uploads/2024/07/sagrada-familia-mayerling-bisbe-urquinaona.jpg",
+      "descripcion": "La Sagrada Familia es una basílica monumental situada en Barcelona, diseñada por Antoni Gaudí. Su construcción comenzó en 1882 y aún sigue en marcha, siendo uno de los proyectos arquitectónicos más largos del mundo. Combina estilos gótico y modernista con un simbolismo cristiano profundo. Destacan sus altas torres, sus fachadas escultóricas y su interior inspirado en formas de la naturaleza. Es Patrimonio de la Humanidad y uno de los monumentos más visitados de España."
+    }
+  ]
+}
