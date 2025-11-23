@@ -8,6 +8,8 @@ import { borrarLugar, cargarLugares, crearNuevoLugar, modificarLugar } from './u
 import DetalleLugar from './components/DetalleLugar'
 import EditarLugar from './components/EditarLugar'
 import { append } from 'ramda';
+import BuscadorSencillo from './components/BuscadorSencillo'
+import BuscadorSugerencias from './components/BuscadorSugerencias'
 
 
 export default function App() {
@@ -99,9 +101,13 @@ export default function App() {
   return (
     <View style={styles.contenedor}>
       <Text style={styles.titulo}>Lugares del mundo</Text>
-      <FlatList data={listaLugares}
-      keyExtractor={(lugar)=> lugar.id.toString()}
-      renderItem={({item})=>getItemLugar(item)}/>
+      <BuscadorSugerencias setLugarSeleccionado={setLugarSeleccionado}/>
+      <View style={{marginTop:60}}>
+        <FlatList data={listaLugares}
+        keyExtractor={(lugar)=> lugar.id.toString()}
+        renderItem={({item})=>getItemLugar(item)}/>
+      </View>
+      
       <View style={styles.positionFab}>
         <Fab icono='add' bgColor={"#007AFF"} onPress={()=> accionAbrirEditorLugar()}/>
       </View>
